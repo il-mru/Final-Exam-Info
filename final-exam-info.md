@@ -4,7 +4,7 @@
 
 ## Date and Time
 Monday Dec 16, 2024 3:00 p.m. to 6:00 p.m.(3 hours)
-U170 (Gym) Row 36 to Row 37. 
+U170 (Gym) TBD - I am double checking if it's Row 36 to Row 37
 
 ## What to bring
 
@@ -30,15 +30,14 @@ The exam will be much like the two midterms in character.
 
 The exam is comprehensive, meaning material from the whole semester will be on the test.
 Lecture notes, labs, tutorials, assignments, quizzes, and midterms are all valuable study materials. 
-If anything is missing from the D2L site or the github repository (https://github.com/amf673/COMP-1701-Fall-2024), 
-let me know. 
+If anything is missing from the D2L site, let me know.
 
 ## What to Do During the Exam
 
 - Strive to get there on time. I suggest arriving at least 15 minutes early, you want to be settled in and relaxed when the exam starts.
 - You do not need to have your One Card on the desk but you should probably have it with you. 
 - I will pass around a sign-in sheet. This is something the department asks for and is a nice double-check to make sure I don't miss an exam.
-- When you are finished, bring your paper up to me.  I will check that your name is on it, etc., check you off my list and add it to the pile. Then you are free!
+- When you are finished, bring your paper up to me. I will check that your name is on it, etc., check you off my list and add it to the pile. Then you are free!
 - The end of three hours (6:00 p.m.) is a hard stop. I will collect all the papers at that time.
 - I have included some extra pages at the end of the exam for rough work or if you need more space. If it is easier to unstaple the exam booklet to work, do so. We can restaple.
 - To aid in grading, please clearly indicate what is rough work or first draft and what is the work you would like graded.
@@ -61,15 +60,13 @@ It will only take a few minutes and it will give you a better idea of how to bud
 
 If you are not getting a question, move on. You can come back to it later. 
 
-The multiple-choice questions are meant to be done fairly quickly. They are only worth 1 each. The final will be out of about 75, and the exam is weighted at 30% so each multiple-choice is worth 0.4 of your final grade. 
+The multiple-choice questions are meant to be done fairly quickly. They are only worth 1 each. The final will be out of about 75, and the exam is weighted at 30% so each multiple-choice is worth 0.4 of your final grade. Don't get stuck on multiple choice, you can always come back to it at the end. Written answer questions are worth most points and worth most of your time.
 
 The coding questions all have solutions that are less than 20-30 lines. If your code is getting long, you are likely off track and should rethink what you are doing. 
 
 Three hours is a long time to sit with a pen cramped in your hand. Put the pen down now and then, stretch out your arms, and take a few breaths. 
 
-I know that final exams are stressful. I had a stomach ache all of December and April for 5 years when I was an undergrad, back in the 1980s. 
-I think the most important thing I learned from that was to get a good night's rest the day before.  
-Extra studying will help, but extra sleep helps even more - Alan. 
+I know that final exams are stressful. Extra studying will help, but extra sleep helps even more. When you get enough sleep, your intuition and recall memory work better. 
 
 ## Coding Do's and Don'ts for the Final Exam
 
