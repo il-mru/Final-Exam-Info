@@ -4,7 +4,7 @@
 
 ## Date and Time
 Monday Dec 16, 2024 3:00 p.m. to 6:00 p.m.(3 hours)
-U170 (Gym) TBD - I am double checking if it's Row 36 to Row 37
+U170 (Gym) Row 36 to Row 37 for our section.
 
 ## What to bring
 
