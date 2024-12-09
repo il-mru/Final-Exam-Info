@@ -4,7 +4,7 @@
 
 ## Date and Time
 Monday Dec 16, 2024 3:00 p.m. to 6:00 p.m.(3 hours)
-U170 (Gym) Row 27 (seat 11 and up) to Row 29. 
+U170 (Gym) Row 36 to Row 37. 
 
 ## What to bring
 
